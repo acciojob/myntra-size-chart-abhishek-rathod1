@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+td{
+	border: solid
+}
+th{
+	border: solid
+	 
+}
+tr th{
+	background-color:red
+}
